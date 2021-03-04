@@ -188,8 +188,5 @@ export default {
 }
 </script>
 <style lang='less' scoped>
-body{
-  border:1px solid #ccc
-}
  
 </style>
